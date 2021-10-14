@@ -1,14 +1,7 @@
 # Wells Fargo Elder Fraud Detection Modeling
 ---------------------------
 
-This project is a part of the ADS-505 course in the Applied Data Science Program at the University of San Diego. Though this project utilizes a challenge structure developed by [MindSumo.com](https://www.mindsumo.com/) as well as a dataset provided by the Wells Fargo Bank of North America, it is not submitted to the competition itself.  The soul purpose is to find a solution to the official challenge and is submitted as a final project for Fall 2021's ADS-505 course at the Unviversity of Sand Diego.
-
-
-## Important Links
-Challenge website: [Mind Sumo](https://www.mindsumo.com/contests/campus-analytics-challenge-2021)
-
-Note: Dataset included in this repository is "proprietary to Wells Fargo and it may not used for any other purpose than to provide a Solution in this Challenge" (Wells Fargo Bank, N.A., 2021).
-
+This project is a part of the ADS-505 course in the Applied Data Science Program at the University of San Diego. This project utilizes a challenge structure produced by [MindSumo.com](https://www.mindsumo.com/) for the [Campus Analytics Challenge of 2021](https://www.mindsumo.com/contests/campus-analytics-challenge-2021) in partnership with Wells Fargo Bank of North America.  The soul purpose of this repo is to find a solution to the official challenge and submit it as part of a final project for Fall 2021's ADS-505 course at the Unviversity of Sand Diego.
 
 -- Project Status: Active
 
@@ -18,13 +11,14 @@ Note: Dataset included in this repository is "proprietary to Wells Fargo and it 
 * Christopher Richardson
 
 
-
 # Installation
 ---------------------------
 Data Exploration and Modeling was all done in [Jupyter Notebook](https://jupyter.org/).
 
 ### Dependencies:
+
 This repo utilizes the following packages:
+
 	* Matplotlib (>= 3.2.2)
 	* Numpy (>= 1.19.5)
 	* Pandas (>= 1.1.5)
@@ -74,8 +68,12 @@ balancing the ability to detect fraud with the number of ‘alerts’ (predictio
 
 # Acknowledgements
 ---------------------------
-We would like to thank [MindSumo.com](https://www.mindsumo.com/) and [Wells Fargo North America](https://www.wellsfargo.com/) for providing students with a real world situation in which Data Science may be utilized for the greater good.  
+We would like to thank [MindSumo.com](https://www.mindsumo.com/) and [Wells Fargo North America](https://www.wellsfargo.com/) for providing students with a real world challenge in which Data Science may be utilized for a better tomorrow.
 <br><br>
+## Important Links
+Challenge website: [Mind Sumo](https://www.mindsumo.com/contests/campus-analytics-challenge-2021)
+
+Note: Dataset included in this repository is "proprietary to Wells Fargo and it may not used for any other purpose than to provide a Solution in this Challenge" (Wells Fargo Bank, N.A., 2021).
 
 # For a better tomorrow!
 
