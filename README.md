@@ -6,9 +6,9 @@ This project is a part of the ADS-505 course in the Applied Data Science Program
 -- Project Status: Active
 
 ## Contributers: 
-* Cole Bailey
-* Bikram Gill
-* Christopher Richardson
+* Cole Bailey (colebailey@sandiego.edu)
+* Bikram Gill (bgill@sandiego.edu)
+* Christopher Richardson (christopherr@sandiego.edu)
 
 
 # Installation
