@@ -48,7 +48,7 @@ vulnerable adults against fraud in the digital payments landscape. Predictive mo
 applied in some form to alert consumers and bankers in advance of a fraud attempt and potentially 
 pre-empt certain transactions and monetary losses.
 
-This project is an attempt to develop a model that can handle the class imbalance in this dataset (where cases of
+This project is an attempt to develop a model that can handle the class imbalance in in the official dataset (where cases of
 fraud are the strong minority). F1 is the measure of choice that the bank would like to maximize, 
 balancing the ability to detect fraud with the number of ‘alerts’ (predictions of Class 1) made. 
 
