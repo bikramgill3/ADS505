@@ -87,8 +87,10 @@ Challenge website: [Mind Sumo](https://www.mindsumo.com/contests/campus-analytic
 
 Note: Dataset included in this repository is "proprietary to Wells Fargo and it may not used for any other purpose than to provide a Solution in this Challenge" (Wells Fargo Bank, N.A., 2021).
 
-# For a better tomorrow!
+----------------------
+<center><h1>For a better tomorrow!</h1></center>
 
+----------------------
 
 
 
