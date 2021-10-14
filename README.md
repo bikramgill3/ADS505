@@ -5,18 +5,22 @@ This project is a part of the ADS-505 course in the Applied Data Science Program
 
 -- Project Status: Active
 
+# Table Of Contents
+--------------
 - [Contributers](#contributers)
 - [Installation](#installation)
 - [Objective](#objective)
     - [Methods Utilized](#methods-utilized)
 - [Acknowledgements](#acknowledgements)
-    - [Important Links](#important-links)
-
+    - [Resource](#resource)
 
 # Contributers: 
-* Cole Bailey (colebailey@sandiego.edu)
-* Bikram Gill (bgill@sandiego.edu)
-* Christopher Richardson (christopherr@sandiego.edu)
+* Cole Bailey 
+    * :email: (colebailey@sandiego.edu)
+* Bikram Gill 
+    * :email: (bgill@sandiego.edu)
+* Christopher Richardson 
+    * :email: (christopherr@sandiego.edu)
 
 
 # Installation
@@ -78,7 +82,7 @@ balancing the ability to detect fraud with the number of ‘alerts’ (predictio
 ---------------------------
 We would like to thank [MindSumo.com](https://www.mindsumo.com/) and [Wells Fargo North America](https://www.wellsfargo.com/) for providing students with a real world challenge in which Data Science may be utilized for a better tomorrow.
 <br><br>
-## Important Links
+## Resource
 Challenge website: [Mind Sumo](https://www.mindsumo.com/contests/campus-analytics-challenge-2021)
 
 Note: Dataset included in this repository is "proprietary to Wells Fargo and it may not used for any other purpose than to provide a Solution in this Challenge" (Wells Fargo Bank, N.A., 2021).
