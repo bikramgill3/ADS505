@@ -5,7 +5,15 @@ This project is a part of the ADS-505 course in the Applied Data Science Program
 
 -- Project Status: Active
 
-## Contributers: 
+- [Contributers](#contributers)
+- [Installation](#installation)
+- [Objective](#objective)
+    - [Methods Utilized](#methods-utilized)
+- [Acknowledgements](#acknowledgements)
+    - [Important Links](#important-links)
+
+
+# Contributers: 
 * Cole Bailey (colebailey@sandiego.edu)
 * Bikram Gill (bgill@sandiego.edu)
 * Christopher Richardson (christopherr@sandiego.edu)
@@ -37,7 +45,7 @@ To clone this repository onto your device, use the commands below:
 
 
 
-# Project Intro/Objective
+# Objective
 ---------------------------
 Banks are required to report suspected vulnerable (elder and dependent adult) financial exploitation.
 
