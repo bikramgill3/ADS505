@@ -1,7 +1,7 @@
 # Wells Fargo Elder Fraud Detection Modeling
 ---------------------------
 
-This project is a part of the ADS-505 course in the Applied Data Science Program at the University of San Diego. This project utilizes a challenge structure produced by [MindSumo.com](https://www.mindsumo.com/) for the [Campus Analytics Challenge of 2021](https://www.mindsumo.com/contests/campus-analytics-challenge-2021) in partnership with Wells Fargo Bank of North America.  The soul purpose of this repo is to find a solution to the official challenge and submit it as part of a final project for Fall 2021's ADS-505 course at the University of Sand Diego.
+This project is a part of the ADS-505 course in the Applied Data Science Program at the University of San Diego. This project utilizes a challenge structure produced by [MindSumo.com](https://www.mindsumo.com/) for the [Campus Analytics Challenge of 2021](https://www.mindsumo.com/contests/campus-analytics-challenge-2021) in partnership with Wells Fargo Bank of North America.  The soul purpose of this repo is to find a solution to the official challenge and submit it as part of a final project for Fall 2021's ADS-505 course at the University of San Diego.
 
 -- Project Status: Active
 
